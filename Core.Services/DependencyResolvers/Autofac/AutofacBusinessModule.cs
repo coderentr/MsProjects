@@ -1,4 +1,5 @@
 ﻿using Autofac;
+using Core.Infrastructure.Utilities.Security.JwtToken;
 using Core.Services.Interfaces;
 using Core.Services.Services;
 using System;
@@ -14,6 +15,7 @@ namespace Core.Services.DependencyResolvers.Autofac
         protected override void Load(ContainerBuilder builder)
         {
             builder.RegisterType<AuthService>().As<IAuthService>().SingleInstance();
+            builder.RegisterType<TokenHelper>().As<ITokenHelper>().SingleInstance();
         }
     }
 }

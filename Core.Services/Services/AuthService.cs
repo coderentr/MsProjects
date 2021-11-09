@@ -3,6 +3,7 @@ using Core.Infrastructure.Dtos.GetDtos;
 using Core.Infrastructure.Dtos.PostDtos;
 using Core.Infrastructure.Utilities.Results;
 using Core.Infrastructure.Utilities.Security.Hashing;
+using Core.Infrastructure.Utilities.Security.JwtToken;
 using Core.Models.Context;
 using Core.Models.Entities;
 using Core.Services.Interfaces;
@@ -31,10 +32,10 @@ namespace Core.Services.Services
                     {
                         var loginUserData = new ResponseLoginUserDto
                         {
+                            Id=user.Id,
                             EMail = user.EMail,
                             FirstName = user.FirstName,
                             LastName = user.LastName,
-                            Token = "Token asdfasdfa"
                         };
                         data = new DataResult<ResponseLoginUserDto>(loginUserData, true);
                     }

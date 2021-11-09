@@ -8,6 +8,7 @@ namespace Core.Infrastructure.Dtos.GetDtos
 {
     public class ResponseLoginUserDto
     {
+        public Guid Id { get; set; }
         public string EMail { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }

@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "llzlkPsuiwK3eMnM7URKpc0J0TgAvedjA2JPX6IFSzZPpYagunNCrA3CCYWLbLsbZP1VAcZUoGuoUriqzMAJmQ==",
+  "dgSpecHash": "mRiKE22rU+iS6Co95BVXtj+Gu4tWq9/WaMvLPjXeUdb71czOlKRZ8WxfOmzE+UQ7nSGfiz3mS1bkR9FHhTCscg==",
   "success": true,
   "projectFilePath": "C:\\MicreServiceAps\\MsProjects\\Core.Infrastructure\\Core.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\IOTAGRAF\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\IOTAGRAF\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\IOTAGRAF\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\IOTAGRAF\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.14.1\\microsoft.identitymodel.jsonwebtokens.6.14.1.nupkg.sha512",
+    "C:\\Users\\IOTAGRAF\\.nuget\\packages\\microsoft.identitymodel.logging\\6.14.1\\microsoft.identitymodel.logging.6.14.1.nupkg.sha512",
+    "C:\\Users\\IOTAGRAF\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.14.1\\microsoft.identitymodel.tokens.6.14.1.nupkg.sha512",
+    "C:\\Users\\IOTAGRAF\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.14.1\\system.identitymodel.tokens.jwt.6.14.1.nupkg.sha512",
+    "C:\\Users\\IOTAGRAF\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\IOTAGRAF\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

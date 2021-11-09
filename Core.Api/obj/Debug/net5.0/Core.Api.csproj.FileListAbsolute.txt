@@ -69,3 +69,6 @@ C:\MicreServiceAps\MsProjects\Core.Api\bin\Debug\net5.0\Core.Models.dll
 C:\MicreServiceAps\MsProjects\Core.Api\bin\Debug\net5.0\Core.Settings.dll
 C:\MicreServiceAps\MsProjects\Core.Api\bin\Debug\net5.0\Core.Models.pdb
 C:\MicreServiceAps\MsProjects\Core.Api\bin\Debug\net5.0\Core.Settings.pdb
+C:\MicreServiceAps\MsProjects\Core.Api\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MicreServiceAps\MsProjects\Core.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\MicreServiceAps\MsProjects\Core.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
