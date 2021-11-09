@@ -1,0 +1,12 @@
+C:\MicreServiceAps\MsProjects\Core.Infrastructure\bin\Debug\net5.0\Core.Infrastructure.deps.json
+C:\MicreServiceAps\MsProjects\Core.Infrastructure\bin\Debug\net5.0\Core.Infrastructure.dll
+C:\MicreServiceAps\MsProjects\Core.Infrastructure\bin\Debug\net5.0\ref\Core.Infrastructure.dll
+C:\MicreServiceAps\MsProjects\Core.Infrastructure\bin\Debug\net5.0\Core.Infrastructure.pdb
+C:\MicreServiceAps\MsProjects\Core.Infrastructure\obj\Debug\net5.0\Core.Infrastructure.csprojAssemblyReference.cache
+C:\MicreServiceAps\MsProjects\Core.Infrastructure\obj\Debug\net5.0\Core.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\MicreServiceAps\MsProjects\Core.Infrastructure\obj\Debug\net5.0\Core.Infrastructure.AssemblyInfoInputs.cache
+C:\MicreServiceAps\MsProjects\Core.Infrastructure\obj\Debug\net5.0\Core.Infrastructure.AssemblyInfo.cs
+C:\MicreServiceAps\MsProjects\Core.Infrastructure\obj\Debug\net5.0\Core.Infrastructure.csproj.CoreCompileInputs.cache
+C:\MicreServiceAps\MsProjects\Core.Infrastructure\obj\Debug\net5.0\Core.Infrastructure.dll
+C:\MicreServiceAps\MsProjects\Core.Infrastructure\obj\Debug\net5.0\ref\Core.Infrastructure.dll
+C:\MicreServiceAps\MsProjects\Core.Infrastructure\obj\Debug\net5.0\Core.Infrastructure.pdb

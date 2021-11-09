@@ -1,0 +1,12 @@
+C:\MicreServiceAps\MsProjects\Core.Settings\bin\Debug\net5.0\Core.Settings.deps.json
+C:\MicreServiceAps\MsProjects\Core.Settings\bin\Debug\net5.0\Core.Settings.dll
+C:\MicreServiceAps\MsProjects\Core.Settings\bin\Debug\net5.0\ref\Core.Settings.dll
+C:\MicreServiceAps\MsProjects\Core.Settings\bin\Debug\net5.0\Core.Settings.pdb
+C:\MicreServiceAps\MsProjects\Core.Settings\obj\Debug\net5.0\Core.Settings.csprojAssemblyReference.cache
+C:\MicreServiceAps\MsProjects\Core.Settings\obj\Debug\net5.0\Core.Settings.GeneratedMSBuildEditorConfig.editorconfig
+C:\MicreServiceAps\MsProjects\Core.Settings\obj\Debug\net5.0\Core.Settings.AssemblyInfoInputs.cache
+C:\MicreServiceAps\MsProjects\Core.Settings\obj\Debug\net5.0\Core.Settings.AssemblyInfo.cs
+C:\MicreServiceAps\MsProjects\Core.Settings\obj\Debug\net5.0\Core.Settings.csproj.CoreCompileInputs.cache
+C:\MicreServiceAps\MsProjects\Core.Settings\obj\Debug\net5.0\Core.Settings.dll
+C:\MicreServiceAps\MsProjects\Core.Settings\obj\Debug\net5.0\ref\Core.Settings.dll
+C:\MicreServiceAps\MsProjects\Core.Settings\obj\Debug\net5.0\Core.Settings.pdb
