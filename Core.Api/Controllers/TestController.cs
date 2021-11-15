@@ -5,16 +5,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Management.Api.Controllers
+namespace Core.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ValuesController : ControllerBase
+    public class TestController : ControllerBase
     {
-        [HttpGet("Controle")]
-        public IActionResult GetManagementApi()
+        [HttpGet("Get")]
+        public IActionResult Get()
         {
-            return Ok("management api is run");
+            return Ok("Core Api Is Run");
         }
     }
 }

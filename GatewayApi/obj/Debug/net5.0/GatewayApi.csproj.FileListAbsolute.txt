@@ -1,6 +1,5 @@
 C:\MicreServiceAps\MsProjects\GatewayApi\bin\Debug\net5.0\appsettings.Development.json
 C:\MicreServiceAps\MsProjects\GatewayApi\bin\Debug\net5.0\appsettings.json
-C:\MicreServiceAps\MsProjects\GatewayApi\bin\Debug\net5.0\ocelot.json
 C:\MicreServiceAps\MsProjects\GatewayApi\bin\Debug\net5.0\GatewayApi.exe
 C:\MicreServiceAps\MsProjects\GatewayApi\bin\Debug\net5.0\GatewayApi.deps.json
 C:\MicreServiceAps\MsProjects\GatewayApi\bin\Debug\net5.0\GatewayApi.runtimeconfig.json
@@ -36,3 +35,4 @@ C:\MicreServiceAps\MsProjects\GatewayApi\obj\Debug\net5.0\GatewayApi.dll
 C:\MicreServiceAps\MsProjects\GatewayApi\obj\Debug\net5.0\ref\GatewayApi.dll
 C:\MicreServiceAps\MsProjects\GatewayApi\obj\Debug\net5.0\GatewayApi.pdb
 C:\MicreServiceAps\MsProjects\GatewayApi\obj\Debug\net5.0\GatewayApi.genruntimeconfig.cache
+C:\MicreServiceAps\MsProjects\GatewayApi\bin\Debug\net5.0\Configuration.json
